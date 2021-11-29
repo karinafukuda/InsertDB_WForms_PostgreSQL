@@ -30,7 +30,8 @@ git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
 ````
 
 - Crie um banco de dados em postgreSQL
-- Crie uma tabela como no documento 'InstructionDataBase' que há dentro desse reposítório
+
+- Crie uma tabela como no documento 'InstructionDataBase' que há dentro desse reposítório, nesse modelo:
 
 
 
@@ -46,6 +47,7 @@ CREATE TABLE Cargo
 ````
 
 - Utilize a senha (Password) e o nome do bando (Database) e os substitua na classe "Conexao.cs"
+
 - Depois é só rodar no VS.
 
 ***
