@@ -1,7 +1,7 @@
 ## InsertDB_WForms_PorsgreSQL
 
 
-Esse projeto utiliza o template do windows forms para receber dados em um formulário e utiliza os dados para fazer um Insert no banco de dados (PostreSQL).
+Esse projeto utiliza o template do Windows Forms para receber dados em um formulário e utiliza os dados para fazer um Insert no banco de dados (PostgreSQL).
 
 
 ***
