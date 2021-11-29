@@ -29,7 +29,7 @@ git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
 
 - Crie um banco de dados em postgreSQL, vide documentação: <a href="https://www.postgresql.org/docs/" alt="link documentação postgresql" target="_blank">Documentação PostgreSQL<a/>
 
-- Crie uma tabela como no documento 'InstructionDataBase' que há dentro desse reposítório, nesse modelo:
+- Crie uma tabela no banco no modelo abaixo:
 
 
 
@@ -44,9 +44,9 @@ CREATE TABLE Cargo
 );
 ````
 
-- Utilize a senha (Password) e o nome do banco de dados (Database) e os substitua na classe "Conexao.cs"
+- Utilize a senha (Password) e o nome do banco de dados (Database) e substitua-os na classe "Conexao.cs"
 
-- Depois é só rodar no VS.
+- Por fim é só rodar no VS.
 
 ***
 
