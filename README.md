@@ -29,7 +29,7 @@ git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
 
 ````
 
-- Crie um cando de dados em postgreSQL
+- Crie um banco de dados em postgreSQL
 - Crie uma tabela como no documento 'InstructionDataBase' que há dentro desse reposítório
 
 
