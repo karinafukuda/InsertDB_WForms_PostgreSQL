@@ -27,7 +27,7 @@ git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
 
 ````
 
-- Crie um banco de dados em postgreSQL
+- Crie um banco de dados em postgreSQL, vide documentação: <a href="https://www.postgresql.org/docs/" alt="link documentação postgresql" target="_blank">Documentação PostgreSQL<a/>
 
 - Crie uma tabela como no documento 'InstructionDataBase' que há dentro desse reposítório, nesse modelo:
 
