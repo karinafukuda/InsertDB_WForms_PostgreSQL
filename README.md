@@ -1,8 +1,7 @@
 ## InsertDB_WForms_PorsgreSQL
 
 
-
-O desafio foi criar um método de inserir dados via Windows Forms, com ADO NET em PostgreSQL.
+Esse projeto utiliza o template do windows forms para receber dados em um formulário e utiliza os dados para fazer um Insert no banco de dados (PostreSQL).
 
 
 ***
@@ -22,8 +21,7 @@ O desafio foi criar um método de inserir dados via Windows Forms, com ADO NET e
 
 - Clone este projeto
 
-````
-git init 
+```` 
 
 git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
 
@@ -46,7 +44,7 @@ CREATE TABLE Cargo
 );
 ````
 
-- Utilize a senha (Password) e o nome do bando (Database) e os substitua na classe "Conexao.cs"
+- Utilize a senha (Password) e o nome do banco de dados (Database) e os substitua na classe "Conexao.cs"
 
 - Depois é só rodar no VS.
 
