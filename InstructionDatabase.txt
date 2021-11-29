@@ -1,0 +1,24 @@
+FIRST:
+
+-- Create a Database with PostgreSQL;
+
+-- After Create a simple Table with code bellow:
+
+
+CREATE TABLE Cargo (
+
+    Id SERIAL PRIMARY KEY,
+    Nome VARCHAR (120) NOT NULL,
+    Ultima_Alteracao TIMESTAMP DEFAULT NOW(),
+    Usuario_Alteracao VARCHAR (200) NOT NULL,
+    Ativo BOOLEAN NOT NULL
+);
+
+SECOND:
+
+-- Use the data: Database name and Password to replace in the string of "Conexao.cs" Class of the solution.
+
+
+
+
+
