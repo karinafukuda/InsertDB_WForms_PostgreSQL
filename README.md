@@ -23,7 +23,7 @@ Esse projeto utiliza o template do Windows Forms para receber dados em um formul
 
 ```` 
 
-git clone https://github.com/karinafukuda/InsertDB_WForms_PorsgreSQL.git
+git clone https://github.com/karinafukuda/InsertDB_WForms_PostgreSQL.git
 
 ````
 
